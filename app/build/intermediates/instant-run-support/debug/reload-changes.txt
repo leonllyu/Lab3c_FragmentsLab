@@ -1,0 +1,3 @@
+CHANGED,C:\Users\leonllyu\AndroidStudioProjects\Lab3c_FragmentsLab\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\fragmentslab\MainActivity$override.class
+CHANGED,C:\Users\leonllyu\AndroidStudioProjects\Lab3c_FragmentsLab\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\fragmentslab\FriendsFragment$override.class
+CHANGED,C:\Users\leonllyu\AndroidStudioProjects\Lab3c_FragmentsLab\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
